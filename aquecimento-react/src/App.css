@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "principal";
+    src: url(./fonts/Comfortaa-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "decorativa";
+    src: url(./fonts/Pacifico-Regular.ttf);
+}
+
+body {
+    margin: 0;
+    font-family: "principal";
+}
+
+.menu {
+    background-color: #8e44ad;
+    color: white;
+    font-family: "decorativa";
+    padding: 20px;
+}
+
+.conteiner {
+    padding: 10px;
+}
