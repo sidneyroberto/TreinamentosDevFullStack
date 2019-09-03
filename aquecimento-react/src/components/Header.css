@@ -1,0 +1,32 @@
+@import '../Fontes.css';
+
+.header {
+    background-color: #663399;
+    padding: 10px 20px;
+}
+
+#titulo {
+    font-family: "decorativa";
+    color: white;
+    font-size: 160%;
+}
+
+#menu {
+    list-style: none;
+    display: inline;
+}
+
+#menu li {
+    display: inline;
+    margin: 0px 20px 7px 0px;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    font-family: "principal";
+}
+
+#menu a:hover {
+    border-bottom: 5px solid #d5b8ff;
+}
